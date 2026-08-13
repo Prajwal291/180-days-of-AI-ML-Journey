@@ -1,1 +1,1 @@
-# 180-days-of-AI-ML-Journey
+# 180-days-of-AI-ML-journey

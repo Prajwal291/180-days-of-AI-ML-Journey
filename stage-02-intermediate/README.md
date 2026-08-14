@@ -1,6 +1,6 @@
 # Stage 2 — Structures + OOP (Week 2)
 
-Part of my [180 Days of AI/ML Journey](../README.md), following the PruthTalks Python-for-AI roadmap.
+Part of my [180 Days of AI/ML Journey](../README.md).
 
 ## What This Stage Covered
 

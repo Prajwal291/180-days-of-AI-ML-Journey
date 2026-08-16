@@ -73,7 +73,7 @@ choice=0
 while choice!=6:
    print("\n================ CONTACT BOOK ===============\n")
    print("\n 1. Add Contact\n 2. View Contacts\n 3. Search Contact\n 4. Delete Contact\n 5. Save Contacts\n 6. Exit\n")
-   choice=input("\nEnter your choice: ")
+   choice=int(input("\nEnter your choice: "))
    if choice==1:
        add_contact()
    elif choice==2:
